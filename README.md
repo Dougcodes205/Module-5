@@ -1,11 +1,10 @@
 # Module-5
 
 ## Description
-Calendar
-- School work
-- Why did you build this project - do get a good grade
-- What problem does it solve? - my grade
-- What did you learn? - to do better for grades
+- Calendar
+- Schedule work events
+- Stay organized
+
 
 ## Table of Contents (Optional)
 
@@ -20,7 +19,7 @@ Calendar
  grey means event has passed
 ## Credits
 
-ME
+Dougcodes 205
 
 ## License
 
